@@ -25,3 +25,6 @@ This gives us a final prediction accuracy of ~**99%** which is a state-of-the-ar
 
 ## Results
 ![eurosat_preds](images/eurosat_preds.png)
+
+## References 
+- Helber, P., Bischke, B., Dengel, A. and Borth, D., 2018. Eurosat: A novel dataset and deep learning benchmark for land use and land cover classification. arXiv preprint arXiv:1709.00029.
